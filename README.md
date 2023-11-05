@@ -18,3 +18,6 @@ docker ps
 
 
 docker tag image_name username/reponame:version
+
+
+docker push reponame:version
